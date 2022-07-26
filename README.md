@@ -16,7 +16,8 @@ You will have to do the following:
 ## How to Play
 
 The CHIP8 has a total of 15 keys, each representing a hexidecimal value. These keys are organized as such:
-```|1|2|3|C|
+```
+|1|2|3|C|
 ---------
 |4|5|6|D|
 ---------
