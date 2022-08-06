@@ -11,7 +11,7 @@ You will have to do the following:
 - clone this github repository
 - move into the cloned folder
 - run the command `mvn package`
-- finally, run the emulator with `java -cp target/chip8-interpreter-1.0-SNAPSHOT.jar main.Chip8`, specifying the absolute path to a chip8 rom as command-line argument. For example, you may run `java -cp target/chip8-interpreter-1.0-SNAPSHOT.jar main.Chip8 "D:/chip8/roms/Space Invaders.ch8"`
+- finally, run the emulator with `java -cp target/chip8.jar`, specifying the absolute path to a chip8 rom as command-line argument. For example, you may run `java -cp target/chip8.jar "D:/chip8/roms/Space Invaders.ch8"`
 
 ## How to Play
 
